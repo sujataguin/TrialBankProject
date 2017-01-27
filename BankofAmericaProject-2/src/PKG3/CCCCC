@@ -1,0 +1,11 @@
+package PKG3;
+
+public class CCCCC {
+
+	public static void main(String[] args) {
+	
+		System.out.println("This is trial for a Class increated in GetHub");
+
+	}
+
+}
